@@ -71,6 +71,7 @@ Each contact entry includes:
 ## 📁 Files Used
 
 * `contacts.json` – Stores all contact entries persistently.
+* `contacts.csv` – Generated on export for external usage or backup.
 
 ---
 
@@ -87,6 +88,7 @@ Each contact entry includes:
 Only standard Python libraries are used:
 
 * `json`
+* `csv`
 * `re`
 
 ---
